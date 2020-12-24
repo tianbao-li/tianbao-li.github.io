@@ -2,8 +2,8 @@
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Computer Vision:** image recognition, 3D model retrieval, virtual try-on
+- **Machine Learning:** deep-learning, transfer learning, domain adaptation
 
 ## News
 
@@ -20,13 +20,13 @@
   <br>
   [[Paper](https://ieeexplore.ieee.org/document/9165939)] [[Code](https://tianbao-li.github.io)]
 
-- **Universal Cross-Domain 3D Model Retrieval**
+- **SP-VITON: shape-preserving image-based virtual try-on network**
   <br>
-  [Dan Song](http://demo.m2i.ac.cn/#/people/songdan), **Tianbao Li**, Wenhui Li, Weizhi Nie, Wu Liu, Anan Liu*
+  [Dan Song](http://demo.m2i.ac.cn/#/people/songdan), **Tianbao Li**, Tianbao Li, Zhendong Mao, Anan Liu*
   <br>
-  IEEE Transactions on Multimedia(**TMM**),2020
+  Multimedia Tools and Applications(**MTAP**),2019
   <br>
-  [[Paper](https://ieeexplore.ieee.org/document/9165939)] [[Code](https://tianbao-li.github.io)]
+  [[Paper](https://doi.org/10.1007/s11042-019-08363-w)] [[Code](https://tianbao-li.github.io)]
 
 
 ## Selected Talks
