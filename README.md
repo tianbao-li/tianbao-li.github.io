@@ -9,17 +9,17 @@
 
 - **[Aug 2020]** Our paper about 3D Model Retrieval is accepted to [IEEE TMM](https://ieeexplore.ieee.org/Xplore/home.jsp).
 - **[Aug 2020]** Our paper about 3D Model Retrieval is accepted to [IEEE TMM](https://ieeexplore.ieee.org/).
-- **[Aug 2020]** Our paper about 3D Model Retrieval is accepted to [IEEE TMM](http://cvpr2020.thecvf.com/).
 
 ## Publications
 
-- **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
+- **Universal Cross-Domain 3D Model Retrieval**
   <br>
   **Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  Dan Song, **Tianbao Li**, Wenhui Li, Weizhi Nie, Wu Liu, Anan Liu*
   <br>
   IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2020**.
   <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+  [[Paper](https://ieeexplore.ieee.org/document/9165939)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
 
 - **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
   <br>
