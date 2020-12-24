@@ -22,7 +22,7 @@
 
 - **SP-VITON: shape-preserving image-based virtual try-on network**
   <br>
-  [Dan Song](http://demo.m2i.ac.cn/#/people/songdan), **Tianbao Li**, Tianbao Li, Zhendong Mao, Anan Liu*
+  [Dan Song](http://demo.m2i.ac.cn/#/people/songdan), **Tianbao Li**, Zhendong Mao, Anan Liu*
   <br>
   Multimedia Tools and Applications(**MTAP**),2019
   <br>
