@@ -16,9 +16,9 @@
   <br>
   [Dan Song](http://demo.m2i.ac.cn/#/people/songdan), **Tianbao Li**, Wenhui Li, Weizhi Nie, Wu Liu, Anan Liu*
   <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2020**.
+  IEEE Transactions on Multimedia. **T-MM**
   <br>
-  [[Paper](https://ieeexplore.ieee.org/document/9165939)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+  [[Paper](https://ieeexplore.ieee.org/document/9165939)] [[Code](https://tianbao-li.github.io)]
 
 - **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
   <br>
