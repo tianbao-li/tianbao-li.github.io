@@ -19,7 +19,7 @@
   <br>
   [Dan Song](http://demo.m2i.ac.cn/#/people/songdan), **Tianbao Li**, Wenhui Li, Weizhi Nie, Wu Liu, Anan Liu*
   <br>
-  IEEE Transactions on Multimedia(**TMM**),2020
+  IEEE Transactions on Multimedia (**TMM**), 2020
   <br>
   [[Paper](https://ieeexplore.ieee.org/document/9165939)] [[Code](https://tianbao-li.github.io)]
 
@@ -27,7 +27,7 @@
   <br>
   [Dan Song](http://demo.m2i.ac.cn/#/people/songdan), **Tianbao Li**, Zhendong Mao, Anan Liu*
   <br>
-  Multimedia Tools and Applications(**MTAP**),2019
+  Multimedia Tools and Applications (**MTAP**), 2019
   <br>
   [[Paper](https://doi.org/10.1007/s11042-019-08363-w)] [[Code](https://tianbao-li.github.io)]
 
