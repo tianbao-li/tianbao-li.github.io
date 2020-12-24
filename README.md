@@ -16,25 +16,17 @@
   <br>
   [Dan Song](http://demo.m2i.ac.cn/#/people/songdan), **Tianbao Li**, Wenhui Li, Weizhi Nie, Wu Liu, Anan Liu*
   <br>
-  IEEE Transactions on Multimedia. **T-MM**
+  IEEE Transactions on Multimedia(**TMM**),2020
   <br>
   [[Paper](https://ieeexplore.ieee.org/document/9165939)] [[Code](https://tianbao-li.github.io)]
 
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
+- **Universal Cross-Domain 3D Model Retrieval**
   <br>
-  Xinzhe Li, Qianru Sun, **Yaoyao Liu**, Shibao Zheng, Qin Zhou, Tat-Seng Chua, Bernt Schiele
+  [Dan Song](http://demo.m2i.ac.cn/#/people/songdan), **Tianbao Li**, Wenhui Li, Weizhi Nie, Wu Liu, Anan Liu*
   <br>
-  33rd Conference on Neural Information Processing Systems. **NeurIPS 2019**.
+  IEEE Transactions on Multimedia(**TMM**),2020
   <br>
-  [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)]
-
-- **Meta-Transfer Learning for Few-Shot Learning**
-  <br>
-  Qianru Sun\*, **Yaoyao Liu\***, Tat-Seng Chua, Bernt Schiele
-  <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2019**.
-  <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
+  [[Paper](https://ieeexplore.ieee.org/document/9165939)] [[Code](https://tianbao-li.github.io)]
 
 
 ## Selected Talks
