@@ -1,5 +1,8 @@
 ## Tianbao Li's Homepage
 
+- A M.S. Student in Tianjin University
+- E-mail: litianbao@tju.edu.cn
+
 ## Research Interests
 
 - **Computer Vision:** image recognition, 3D model retrieval, virtual try-on
