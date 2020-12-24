@@ -1,4 +1,4 @@
-## Tianbao Li's Homepage
+## About me
 
 - M.S. Student in Tianjin University
 - E-mail: litianbao@tju.edu.cn
