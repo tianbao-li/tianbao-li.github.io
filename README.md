@@ -7,8 +7,8 @@
 
 ## News
 
-- **[Aug 2020]** Our paper about 3D Model Retrieval is accepted to [IEEE TMM](https://ieeexplore.ieee.org/document/9165939).
-- **[Oct 2019]** Our paper about virtual try-on is accepted to [MTAP](https://doi.org/10.1007/s11042-019-08363-w).
+- **[Aug 2020]** Our paper about 3D Model Retrieval is accepted to [IEEE TMM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046).
+- **[Oct 2019]** Our paper about virtual try-on is accepted to [MTAP](https://www.springer.com/journal/11042).
 
 ## Publications
 
