@@ -14,7 +14,7 @@
 
 - **Universal Cross-Domain 3D Model Retrieval**
   <br>
-  Dan Song, **Tianbao Li**, Wenhui Li, Weizhi Nie, Wu Liu, Anan Liu*
+  [Dan Song](http://demo.m2i.ac.cn/#/people/songdan), **Tianbao Li**, Wenhui Li, Weizhi Nie, Wu Liu, Anan Liu*
   <br>
   IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2020**.
   <br>
