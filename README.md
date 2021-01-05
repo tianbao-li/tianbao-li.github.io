@@ -33,9 +33,9 @@
   <br>
   [[Paper](https://ieeexplore.ieee.org/document/9165939)] [[Code](https://tianbao-li.github.io)]
   
- - **基于深度学习的三维模型检索算法综述**
+- **基于深度学习的三维模型检索算法综述**
   <br>
-  刘安安, **李天宝**, 王晓雯, 宋丹*
+  刘安安,  **李天宝**,  王晓雯,  宋丹*
   <br>
   **《数据采集与处理》**, 2021
   <br>
