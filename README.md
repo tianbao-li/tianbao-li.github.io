@@ -27,7 +27,7 @@
 
 - **Universal Cross-Domain 3D Model Retrieval**
   <br>
-  [Dan Song](http://demo.m2i.ac.cn/#/people/songdan), **Tianbao Li**, Wenhui Li, Weizhi Nie, Wu Liu, Anan Liu*
+  Dan Song, **Tianbao Li**, Wenhui Li, Weizhi Nie, Wu Liu, Anan Liu*
   <br>
   IEEE Transactions on Multimedia (**TMM**), 2020
   <br>
