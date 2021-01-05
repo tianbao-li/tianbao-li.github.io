@@ -33,13 +33,13 @@
   <br>
   [[Paper](https://ieeexplore.ieee.org/document/9165939)] [[Code](https://tianbao-li.github.io)]
   
-  - **基于深度学习的三维模型检索算法综述**
+ - **基于深度学习的三维模型检索算法综述**
   <br>
   刘安安, **李天宝**, 王晓雯, 宋丹*
   <br>
-  **<数据采集与处理》**, 2021
+  **《数据采集与处理》**, 2021
   <br>
-  [[Paper](http://sjcj.nuaa.edu.cn/ch/reader/view_abstract.aspx?flag=2&file_no=202012140000002&journal_id=sjcjycl)] [[Code](https://tianbao-li.github.io)]
+  [[Paper](http://sjcj.nuaa.edu.cn/ch/reader/view_abstract.aspx?flag=2&file_no=202012140000002&journal_id=sjcjycl)]
 
 
 ## Competition
