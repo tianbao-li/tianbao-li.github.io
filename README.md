@@ -43,7 +43,7 @@
 
 
 ## Competition
-- **“华为杯”第十七届中国研究生数学建模竞赛**
+- **“华为杯”第十七届中国研究生数学建模竞赛，三等奖**
   <br>
   B题：汽油辛烷值建模
   [[link](https://cpipc.chinadegrees.cn/cw/hp/4)] [[Paper](https://tianbao-li.github.io)]
