@@ -39,7 +39,7 @@
   <br>
   **《数据采集与处理》**, 2021
   <br>
-  [[Paper](http://sjcj.nuaa.edu.cn/ch/reader/view_abstract.aspx?flag=2&file_no=202012140000002&journal_id=sjcjycl)]
+  [[Paper](http://sjcj.nuaa.edu.cn/ch/reader/view_abstract.aspx?file_no=202101001&flag=1)]
 
 
 ## Competition
