@@ -6,7 +6,7 @@
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, 3D model retrieval and reconstruction, virtual try-on
+- **Computer Vision:** 3D model retrieval and reconstruction, virtual try-on, semantic segmentation
 - **Machine Learning:** deep-learning, transfer learning, few-shot learning
 
 ## News
