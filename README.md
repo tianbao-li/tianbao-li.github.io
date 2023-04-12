@@ -24,7 +24,7 @@
 
 - **Image-based 3D model retrieval via disentangled feature learning and enhanced semantic alignment**
   <br>
-  Jie Nie, Ting Zhang, Tianbao Li, Shusong Yu, Xuanya Li, Zhiqiang Wei
+  Jie Nie, Ting Zhang, **Tianbao Li**, Shusong Yu, Xuanya Li, Zhiqiang Wei
   <br>
   Information Processing & Management (**IPM**), 2022
   <br>
@@ -40,7 +40,7 @@
  
 - **Minimizing-Entropy and Fourier Consistency Network for Domain Adaptation on Optic Disc and Cup Segmentation**
   <br>
-  Shao-Peng Xu, Tian-Bao Li, Zhe-Qi Zhang, Dan Song
+  Shao-Peng Xu, **Tian-Bao Li**, Zhe-Qi Zhang, Dan Song
   <br>
   IEEE Access, 2022
   <br>
@@ -64,7 +64,7 @@
  
 - **SP-VITON: shape-preserving image-based virtual try-on network**
   <br>
-  [Dan Song](http://demo.m2i.ac.cn/#/people/songdan), **Tianbao Li**, Zhendong Mao, Anan Liu*
+  Dan Song, **Tianbao Li**, Zhendong Mao, Anan Liu*
   <br>
   Multimedia Tools and Applications (**MTAP**), 2019
   <br>
