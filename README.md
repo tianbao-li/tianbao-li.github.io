@@ -35,8 +35,17 @@
   Dan Song, Yuting Ling, **Tianbao Li***, Ting Zhang, Guoqing Jin, Junbo Guo, Xuanya Li
   <br>
  Image and Vision Computing (**IVC**), 2022
+ <br>
  [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0262885622001111)]
-
+ 
+- **Minimizing-Entropy and Fourier Consistency Network for Domain Adaptation on Optic Disc and Cup Segmentation**
+  <br>
+  Shao-Peng Xu, Tian-Bao Li, Zhe-Qi Zhang, Dan Song
+  <br>
+  IEEE Access
+  <br>
+  [[Paper](https://ieeexplore.ieee.org/abstract/document/9615072)]
+  
 - **Review of 3D Model Retrieval Algorithms Based on Deep Learning**
   <br>
   Anan Liu, **Tianbao Li**, Xiaowen Wang, Dan Song*
