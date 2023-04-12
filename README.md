@@ -1,13 +1,13 @@
 ## TianBao Li's Homepage
 ## About me
 
-- M.S. Student in Tianjin University
+- PH.D. Student in Tianjin University
 - E-mail: litianbao@tju.edu.cn
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, 3D model retrieval, virtual try-on
-- **Machine Learning:** deep-learning, transfer learning, domain adaptation
+- **Computer Vision:** image recognition, 3D model retrieval and reconstruction, virtual try-on
+- **Machine Learning:** deep-learning, transfer learning, few-shot learning
 
 ## News
 
@@ -48,8 +48,3 @@
   B题：汽油辛烷值建模
   [[link](https://cpipc.chinadegrees.cn/cw/hp/4)] [[Paper](https://tianbao-li.github.io)]
   
-
-## Projects
-- 
-
-
