@@ -22,6 +22,21 @@
 
 ## Publications
 
+- **Image-based 3D model retrieval via disentangled feature learning and enhanced semantic alignment**
+  <br>
+  Jie Nie, Ting Zhang, Tianbao Li, Shusong Yu, Xuanya Li, Zhiqiang Wei
+  <br>
+  Information Processing & Management (**IPM**), 2022
+  <br>
+  [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0306457322002606)]
+
+- **Gradual adaption with memory mechanism for image-based 3D model retrieval**
+  <br>
+  Dan Song, Yuting Ling, **Tianbao Li***, Ting Zhang, Guoqing Jin, Junbo Guo, Xuanya Li
+  <br>
+ Image and Vision Computing (**IVC**), 2022
+ [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0262885622001111)]
+
 - **Review of 3D Model Retrieval Algorithms Based on Deep Learning**
   <br>
   Anan Liu, **Tianbao Li**, Xiaowen Wang, Dan Song*
