@@ -34,9 +34,9 @@
   <br>
   Dan Song, Yuting Ling, **Tianbao Li***, Ting Zhang, Guoqing Jin, Junbo Guo, Xuanya Li
   <br>
- Image and Vision Computing (**IVC**), 2022
- <br>
- [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0262885622001111)]
+  Image and Vision Computing (**IVC**), 2022
+  <br>
+  [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0262885622001111)]
  
 - **Minimizing-Entropy and Fourier Consistency Network for Domain Adaptation on Optic Disc and Cup Segmentation**
   <br>
