@@ -42,7 +42,7 @@
   <br>
   Shao-Peng Xu, Tian-Bao Li, Zhe-Qi Zhang, Dan Song
   <br>
-  IEEE Access
+  IEEE Access, 2022
   <br>
   [[Paper](https://ieeexplore.ieee.org/abstract/document/9615072)]
   
