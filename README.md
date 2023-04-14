@@ -1,4 +1,3 @@
-## TianBao Li's Homepage
 ## About me
 
 - PH.D. Student in Tianjin University
