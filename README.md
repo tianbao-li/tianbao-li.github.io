@@ -23,7 +23,7 @@
 
 - **Focus on Hard Samples: Hierarchical Unbiased Constraints for Cross-Domain 3D Model Retrieval**
   <br>
-  **Tian-Bao Li**; An-An Liu; Dan Song; Wen-Hui Li; Xuan-Ya Li; Yu-Ting Su
+  **Tian-Bao Li**; An-An Liu*; Dan Song*; Wen-Hui Li; Xuan-Ya Li; Yu-Ting Su
   <br>
   IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2023
   <br>
@@ -31,7 +31,7 @@
 
 - **Image-based 3D model retrieval via disentangled feature learning and enhanced semantic alignment**
   <br>
-  Jie Nie, Ting Zhang, **Tianbao Li**, Shusong Yu, Xuanya Li, Zhiqiang Wei
+  Jie Nie, Ting Zhang, **Tianbao Li**, Shusong Yu, Xuanya Li*, Zhiqiang Wei
   <br>
   Information Processing & Management (**IPM**), 2022
   <br>
@@ -47,7 +47,7 @@
  
 - **Minimizing-Entropy and Fourier Consistency Network for Domain Adaptation on Optic Disc and Cup Segmentation**
   <br>
-  Shao-Peng Xu, **Tian-Bao Li**, Zhe-Qi Zhang, Dan Song
+  Shao-Peng Xu, **Tian-Bao Li**, Zhe-Qi Zhang*, Dan Song
   <br>
   IEEE Access, 2022
   <br>
