@@ -11,7 +11,7 @@
 
 ## News
 
-- **[Apr 2023]** Our paper about 3D Model Retrieval is accepted to [IEEE TCSVT](https://tianbao-li.github.io).
+- **[Apr 2023]** Our paper about 3D Model Retrieval is accepted to [IEEE TCSVT](https://ieeexplore.ieee.org/document/10101863).
 - **[Nov 2022]** Our paper about 3D Model Retrieval is accepted to [IPM](https://www.sciencedirect.com/science/article/abs/pii/S0306457322002606).
 - **[May 2022]** Our paper about 3D Model Retrieval is accepted to [IVC](https://www.sciencedirect.com/science/article/abs/pii/S0262885622001111).
 - **[Nov 2021]** Our paper about Medical Image Segmentation is accepted to [IEEE Access](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9615072).
@@ -21,6 +21,14 @@
 
 
 ## Publications
+
+- **Focus on Hard Samples: Hierarchical Unbiased Constraints for Cross-Domain 3D Model Retrieval**
+  <br>
+  **Tian-Bao Li**; An-An Liu; Dan Song; Wen-Hui Li; Xuan-Ya Li; Yu-Ting Su
+  <br>
+  IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2023
+  <br>
+  [[Paper](https://ieeexplore.ieee.org/document/10101863)]
 
 - **Image-based 3D model retrieval via disentangled feature learning and enhanced semantic alignment**
   <br>
