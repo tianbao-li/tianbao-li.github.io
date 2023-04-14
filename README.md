@@ -78,9 +78,5 @@
   [[Paper](https://doi.org/10.1007/s11042-019-08363-w)] [[Code](https://tianbao-li.github.io)]
 
 
-## Competition
-- **“华为杯”第十七届中国研究生数学建模竞赛，三等奖**
-  <br>
-  B题：汽油辛烷值建模
-  [[link](https://cpipc.chinadegrees.cn/cw/hp/4)] [[Paper](https://tianbao-li.github.io)]
+## Others
   
