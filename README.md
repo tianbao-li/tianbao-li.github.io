@@ -23,7 +23,7 @@
 
 - **Focus on Hard Samples: Hierarchical Unbiased Constraints for Cross-Domain 3D Model Retrieval**
   <br>
-  **Tian-Bao Li**, An-An Liu*, Dan Song*, Wen-Hui Li, Xuan-Ya Li, Yu-Ting Su
+  **Tian-Bao Li**, An-An Liu*, Dan Song, Wen-Hui Li, Xuan-Ya Li, Yu-Ting Su
   <br>
   IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2023
   <br>
