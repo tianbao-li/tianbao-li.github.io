@@ -11,7 +11,9 @@
 ## News
 
 - **[Apr 2023]** Our paper about 3D Model Retrieval is accepted to [IEEE TCSVT](https://ieeexplore.ieee.org/document/10101863).
+- **[Jan 2023]** Our Review about Marine Artificial Intelligence is accepted to [《数据采集与处理》](https://sjcj.nuaa.edu.cn/sjcjycl/article/abstract/202302001).
 - **[Nov 2022]** Our paper about 3D Model Retrieval is accepted to [IPM](https://www.sciencedirect.com/science/article/abs/pii/S0306457322002606).
+- **[May 2022]** Our paper about  virtual try-on is accepted to [《数据采集与处理》](https://sjcj.nuaa.edu.cn/sjcjycl/article/abstract/202205019).
 - **[May 2022]** Our paper about 3D Model Retrieval is accepted to [IVC](https://www.sciencedirect.com/science/article/abs/pii/S0262885622001111).
 - **[Nov 2021]** Our paper about Medical Image Segmentation is accepted to [IEEE Access](https://ieeexplore.ieee.org/document/9615072).
 - **[Jan 2021]** Our Review about 3D Model Retrieval is accepted to [《数据采集与处理》](http://sjcj.nuaa.edu.cn/ch/reader/view_abstract.aspx?file_no=202101001&flag=1).
@@ -76,7 +78,25 @@
   Multimedia Tools and Applications (**MTAP**), 2019
   <br>
   [[Paper](https://doi.org/10.1007/s11042-019-08363-w)] [[Code](https://tianbao-li.github.io)]
+  
+- **Virtual Try-on Network for Graduation Photo Generation**
+  <br>
+  Peizhuo Sheng, Tingyu Li, **Tianbao Li**, Dan Song*, Anan Liu
+  <br>
+  **《数据采集与处理》**, 2022
+  <br>
+  [[Paper](https://sjcj.nuaa.edu.cn/sjcjycl/article/abstract/202205019)]
+  
+https://sjcj.nuaa.edu.cn/sjcjycl/article/abstract/202302001
 
+- **Research on Marine Extreme Meteorology Forecast**
+  <br>
+  Anan Liu, **Tianbao Li**, Dan Song*, Wenhui Li, Zhengya Sun, Chunxin Yuan
+  <br>
+  **《数据采集与处理》**, 2023
+  <br>
+  [[Paper](https://sjcj.nuaa.edu.cn/sjcjycl/article/abstract/202302001)]
+  
 
 ## Reviewers
 
