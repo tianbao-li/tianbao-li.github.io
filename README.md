@@ -86,8 +86,6 @@
   **《数据采集与处理》**, 2022
   <br>
   [[Paper](https://sjcj.nuaa.edu.cn/sjcjycl/article/abstract/202205019)]
-  
-https://sjcj.nuaa.edu.cn/sjcjycl/article/abstract/202302001
 
 - **Research on Marine Extreme Meteorology Forecast**
   <br>
