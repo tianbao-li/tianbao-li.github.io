@@ -78,6 +78,10 @@
   [[Paper](https://doi.org/10.1007/s11042-019-08363-w)] [[Code](https://tianbao-li.github.io)]
 
 
-## Services
+## Reviewers
 
-### Reviewers
+- IEEE Transactions on Medical Imaging (TMI)
+- Information Processing and Management (IPM)
+- Multimedia Systems (MMSJ)
+- The IEEE International Conference on Multimedia & Expo(ICME, 2023)
+
