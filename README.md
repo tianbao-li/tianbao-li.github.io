@@ -23,6 +23,8 @@
 
 ## Publications
 
+### 3D Retrieval and Reconstruction
+
 - **Focus on Hard Samples: Hierarchical Unbiased Constraints for Cross-Domain 3D Model Retrieval**
   <br>
   **Tian-Bao Li**, An-An Liu*, Dan Song, Wen-Hui Li, Xuan-Ya Li, Yu-Ting Su
@@ -46,6 +48,24 @@
   Image and Vision Computing (**IVC**), 2022
   <br>
   [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0262885622001111)]
+  
+- **Review of 3D Model Retrieval Algorithms Based on Deep Learning**
+  <br>
+  Anan Liu, **Tianbao Li**, Xiaowen Wang, Dan Song*
+  <br>
+  **《数据采集与处理》**, 2021
+  <br>
+  [[Paper](http://sjcj.nuaa.edu.cn/ch/reader/view_abstract.aspx?file_no=202101001&flag=1)]
+  
+- **Universal Cross-Domain 3D Model Retrieval**
+  <br>
+  Dan Song, **Tianbao Li**, Wenhui Li, Weizhi Nie, Wu Liu, Anan Liu*
+  <br>
+  IEEE Transactions on Multimedia (**TMM**), 2020
+  <br>
+  [[Paper](https://ieeexplore.ieee.org/document/9165939)] [[Code](https://tianbao-li.github.io)]
+  
+### Medical Image Segmentation
  
 - **Minimizing-Entropy and Fourier Consistency Network for Domain Adaptation on Optic Disc and Cup Segmentation**
   <br>
@@ -55,21 +75,7 @@
   <br>
   [[Paper](https://ieeexplore.ieee.org/document/9615072)]
   
-- **Review of 3D Model Retrieval Algorithms Based on Deep Learning**
-  <br>
-  Anan Liu, **Tianbao Li**, Xiaowen Wang, Dan Song*
-  <br>
-  **《数据采集与处理》**, 2021
-  <br>
-  [[Paper](http://sjcj.nuaa.edu.cn/ch/reader/view_abstract.aspx?file_no=202101001&flag=1)]
-
-- **Universal Cross-Domain 3D Model Retrieval**
-  <br>
-  Dan Song, **Tianbao Li**, Wenhui Li, Weizhi Nie, Wu Liu, Anan Liu*
-  <br>
-  IEEE Transactions on Multimedia (**TMM**), 2020
-  <br>
-  [[Paper](https://ieeexplore.ieee.org/document/9165939)] [[Code](https://tianbao-li.github.io)]
+### Virtual Try-on
  
 - **SP-VITON: shape-preserving image-based virtual try-on network**
   <br>
@@ -86,6 +92,8 @@
   **《数据采集与处理》**, 2022
   <br>
   [[Paper](https://sjcj.nuaa.edu.cn/sjcjycl/article/abstract/202205019)]
+
+### Marine Artificial Intelligence
 
 - **Research on Marine Extreme Meteorology Forecast**
   <br>
