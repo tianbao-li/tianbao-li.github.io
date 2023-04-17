@@ -83,5 +83,5 @@
 - IEEE Transactions on Medical Imaging (TMI)
 - Information Processing and Management (IPM)
 - Multimedia Systems (MMSJ)
-- The IEEE International Conference on Multimedia & Expo(ICME, 2023)
+- IEEE International Conference on Multimedia & Expo (ICME, 2023)
 
