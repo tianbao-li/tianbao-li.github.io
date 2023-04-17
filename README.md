@@ -31,7 +31,7 @@
   <br>
   IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2023
   <br>
-  [[Paper](https://ieeexplore.ieee.org/document/10101863)]
+  [[Paper](https://ieeexplore.ieee.org/document/10101863)][[Code](https://github.com/tianbao-li/HUCN)]
 
 - **Image-based 3D model retrieval via disentangled feature learning and enhanced semantic alignment**
   <br>
@@ -39,7 +39,7 @@
   <br>
   Information Processing & Management (**IPM**), 2022
   <br>
-  [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0306457322002606)]
+  [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0306457322002606)][[Code](https://github.com/tianbao-li/IBMR_DFSA)]
 
 - **Gradual adaption with memory mechanism for image-based 3D model retrieval**
   <br>
