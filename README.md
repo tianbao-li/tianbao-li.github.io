@@ -107,6 +107,7 @@
 ## Reviewers
 
 - IEEE Transactions on Medical Imaging (TMI)
+- IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
 - Information Processing and Management (IPM)
 - Multimedia Systems (MMSJ)
 - IEEE International Conference on Multimedia & Expo (ICME, 2023)
