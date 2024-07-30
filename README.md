@@ -72,13 +72,13 @@
   <br>
   IEEE Transactions on Multimedia (**TMM**), 2020
   <br>
-  [[Paper](https://ieeexplore.ieee.org/document/9165939)] [[Code](https://tianbao-li.github.io)]
+  [[Paper](https://ieeexplore.ieee.org/document/9165939)]
   
 ### Marine Artificial Intelligence
 
 - **Multi-Task Spatial-Temporal Transformer for Multi-Variable Meteorological Forecasting**
   <br>
-  **Tian-Bao Li**; An-An Liu*; Dan Song*; Wen-Hui Li; Jing Zhang; Zhi-Qiang Wei; Yu-Ting Su
+  **Tian-Bao Li**, An-An Liu*, Dan Song*, Wen-Hui Li, Jing Zhang, Zhi-Qiang Wei, Yu-Ting Su
   <br>
   IEEE Transactions on Knowledge and Data Engineering  (**TKDE**), 2024
   <br>
