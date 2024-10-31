@@ -60,7 +60,7 @@
   <br>
   IEEE Transactions on Multimedia (**TMM**), 2023
   <br>
-  [[Paper](https://ieeexplore.ieee.org/document/10278480)][[Code](https://github.com/tianbao-li/PFADA)]
+  [[Paper](https://ieeexplore.ieee.org/document/10278480)]
   
 - **Focus on Hard Samples: Hierarchical Unbiased Constraints for Cross-Domain 3D Model Retrieval**
   <br>
@@ -68,7 +68,7 @@
   <br>
   IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2023
   <br>
-  [[Paper](https://ieeexplore.ieee.org/document/10101863)][[Code](https://github.com/tianbao-li/HUCN)]
+  [[Paper](https://ieeexplore.ieee.org/document/10101863)]
 
 - **Image-based 3D model retrieval via disentangled feature learning and enhanced semantic alignment**
   <br>
@@ -76,7 +76,7 @@
   <br>
   Information Processing & Management (**IPM**), 2022
   <br>
-  [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0306457322002606)][[Code](https://github.com/tianbao-li/IBMR_DFSA)]
+  [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0306457322002606)]
 
 - **Gradual adaption with memory mechanism for image-based 3D model retrieval**
   <br>
@@ -120,7 +120,7 @@
   <br>
   Multimedia Tools and Applications (**MTAP**), 2019
   <br>
-  [[Paper](https://doi.org/10.1007/s11042-019-08363-w)] [[Code](https://tianbao-li.github.io)]
+  [[Paper](https://doi.org/10.1007/s11042-019-08363-w)]
 
 
 ## Reviewers
