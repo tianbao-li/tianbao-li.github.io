@@ -5,11 +5,12 @@
 
 ## Research Interests
 
-- **Computer Vision:** 3D model retrieval and reconstruction, marine artificial intelligence, virtual try-on, semantic segmentation
+- **Computer Vision:** marine artificial intelligence, 3D object retrieval,  virtual try-on, semantic segmentation
 - **Machine Learning:** deep-learning, transfer learning, few-shot learning
 
 ## News
 
+- **[Oct 2024]** Our paper about Marine Environment and Meteorological Variables Prediction is accepted to [IEEE TCSVT](https://ieeexplore.ieee.org/document/10738521).
 - **[Jul 2024]** Our paper about Multi-Variable Meteorological Forecasting is accepted to [IEEE TKDE](https://ieeexplore.ieee.org/document/10607931).
 - **[Oct 2023]** Our paper about Domain Adaptation is accepted to [IEEE TMM](https://ieeexplore.ieee.org/document/10278480).
 - **[Apr 2023]** Our paper about 3D Model Retrieval is accepted to [IEEE TCSVT](https://ieeexplore.ieee.org/document/10101863).
@@ -24,7 +25,34 @@
 
 ## Publications
 
-### 3D Retrieval and Reconstruction
+### Marine Artificial Intelligence
+
+- **Multi-Scale Spatial-Temporal Transformer for Meteorological Variable Forecasting**
+  <br>
+  **Tian-Bao Li**, Yu-Ting Su, Dan Song*, Wen-Hui Li, Zhi-Qiang Wei, An-An Liu*
+  <br>
+  IEEE Transactions on Circuits and Systems for Video Technology  (**TCSVT**), 2024
+  <br>
+  [[Paper](https://ieeexplore.ieee.org/document/10738521)]
+  
+- **Multi-Task Spatial-Temporal Transformer for Multi-Variable Meteorological Forecasting**
+  <br>
+  **Tian-Bao Li**, An-An Liu*, Dan Song*, Wen-Hui Li, Jing Zhang, Zhi-Qiang Wei, Yu-Ting Su
+  <br>
+  IEEE Transactions on Knowledge and Data Engineering  (**TKDE**), 2024
+  <br>
+  [[Paper](https://ieeexplore.ieee.org/document/10607931)]
+
+- **Research on Marine Extreme Meteorology Forecast**
+  <br>
+  Anan Liu, **Tianbao Li**, Dan Song*, Wenhui Li, Zhengya Sun, Chunxin Yuan
+  <br>
+  **《数据采集与处理》**, 2023
+  <br>
+  [[Paper](https://sjcj.nuaa.edu.cn/sjcjycl/article/abstract/202302001)]
+
+
+### 3D Object Retrieval
 
 - **Progressive Fourier Adversarial Domain Adaptation for Object Classification and Retrieval**
   <br>
@@ -74,24 +102,6 @@
   <br>
   [[Paper](https://ieeexplore.ieee.org/document/9165939)]
   
-### Marine Artificial Intelligence
-
-- **Multi-Task Spatial-Temporal Transformer for Multi-Variable Meteorological Forecasting**
-  <br>
-  **Tian-Bao Li**, An-An Liu*, Dan Song*, Wen-Hui Li, Jing Zhang, Zhi-Qiang Wei, Yu-Ting Su
-  <br>
-  IEEE Transactions on Knowledge and Data Engineering  (**TKDE**), 2024
-  <br>
-  [[Paper](https://ieeexplore.ieee.org/document/10607931)]
-
-- **Research on Marine Extreme Meteorology Forecast**
-  <br>
-  Anan Liu, **Tianbao Li**, Dan Song*, Wenhui Li, Zhengya Sun, Chunxin Yuan
-  <br>
-  **《数据采集与处理》**, 2023
-  <br>
-  [[Paper](https://sjcj.nuaa.edu.cn/sjcjycl/article/abstract/202302001)]
-
 ### Medical Image Segmentation
  
 - **Minimizing-Entropy and Fourier Consistency Network for Domain Adaptation on Optic Disc and Cup Segmentation**
@@ -116,7 +126,9 @@
 ## Reviewers
 
 - IEEE Transactions on Medical Imaging (TMI)
+- IEEE Transactions on Affective Computing (TAFFC)
 - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+- ACM Transactions on Multimedia Computing Communications and Applications (TOMM)
 - Information Processing and Management (IPM)
 - Multimedia Systems (MMSJ)
 - IEEE International Conference on Multimedia & Expo (ICME, 2023)
