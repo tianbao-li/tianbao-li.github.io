@@ -10,7 +10,7 @@
 
 ## News
 
-- **[Oct 2024]** Our paper about Marine Environment and Meteorological Variables Prediction is accepted to [IEEE TCSVT](https://ieeexplore.ieee.org/document/10738521).
+- **[Oct 2024]** Our paper about Marine Environment and Meteorological Prediction is accepted to [IEEE TCSVT](https://ieeexplore.ieee.org/document/10738521).
 - **[Jul 2024]** Our paper about Multi-Variable Meteorological Forecasting is accepted to [IEEE TKDE](https://ieeexplore.ieee.org/document/10607931).
 - **[Oct 2023]** Our paper about Domain Adaptation is accepted to [IEEE TMM](https://ieeexplore.ieee.org/document/10278480).
 - **[Apr 2023]** Our paper about 3D Model Retrieval is accepted to [IEEE TCSVT](https://ieeexplore.ieee.org/document/10101863).
