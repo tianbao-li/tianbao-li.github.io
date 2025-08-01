@@ -1,0 +1,21 @@
+main:
+
+  - title: "Team"
+    url: "https://www.scholat.com/team/weifengliugroup.cn"
+    right: true 
+  
+  # - title: "Teaching"
+  #   url: /teaching/
+  #   right: true 
+  
+  # - title: "Talks"
+  #   url: /talks/
+
+  - title: "Services"
+    url: /services/
+
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Home"
+    url: /

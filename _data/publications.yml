@@ -1,0 +1,49 @@
+main:
+
+  - title: "Multi-Scale Spatial-Temporal Transformer for Meteorological Variable Forecasting"
+    authors: <strong>Tianbao Li</strong>, Yuting Su, Dan Song*, Wenhui Li, Zhiqiang Wei, Anan Liu*
+    conference_short: IEEE TCSVT
+    conference: IEEE Transactions on Circuits and Systems for Video Technology, 2025, 35(3), 2474-2486.
+    pdf: https://ieeexplore.ieee.org/document/10738521/
+    bibtex: https://dblp.org/rec/journals/tcsv/LiSSLWL25.html?view=bibtex
+    image: ../assets/paper/msstt.png
+
+  - title: "Multi-Task Spatial-Temporal Transformer for Multi-Variable Meteorological Forecasting"
+    authors: <strong>Tianbao Li</strong>, Anan Liu*, Dan Song*, Wenhui Li, Jing Zhang, Zhiqiang Wei, Yuting Su
+    conference_short: IEEE TKDE
+    conference: IEEE Transactions on Knowledge and Data Engineering, 2024, 36(12), 8876-8888.
+    pdf: https://ieeexplore.ieee.org/document/10607931/
+    bibtex: https://dblp.org/rec/journals/tkde/LiLSLZWS24.html?view=bibtex
+    image: ../assets/paper/mtstt.png
+
+  - title: "Progressive Fourier Adversarial Domain Adaptation for Object Classification and Retrieval"
+    authors: <strong>Tianbao Li</strong>, Yuting Su, Dan Song*, Wenhui Li, Zhiqiang Wei, Anan Liu*
+    conference_short: IEEE TMM
+    conference:  IEEE Transactions on Multimedia, 2024, 26, 4540–4553.
+    pdf: https://ieeexplore.ieee.org/document/10278480/
+    bibtex: https://dblp.org/rec/journals/tkde/LiLSLZWS24.html?view=bibtex
+    image: ../assets/paper/pfada.png
+
+  - title: "Focus on Hard Samples: Hierarchical Unbiased Constraints for Cross-Domain 3D Model Retrieval"
+    authors: <strong>Tianbao Li</strong>, Anan Liu*, Dan Song*, Wenhui Li, Xuanya Li, Yuting Su
+    conference_short: IEEE TCSVT
+    conference: IEEE Transactions on Circuits and Systems for Video Technology, 2023, 33(11), 7036-7049.
+    pdf: https://ieeexplore.ieee.org/document/10101863/
+    bibtex: https://dblp.org/rec/journals/tcsv/LiLSLLS23.html?view=bibtex
+    image: ../assets/paper/hucn.png
+
+  - title: "Universal Cross-Domain 3D Model Retrieval"
+    authors: Dan Song, <strong>Tianbao Li</strong>, Wenhui Li, Weizhi Nie, Wu Liu, Anan Liu*
+    conference_short: IEEE TMM
+    conference: IEEE Transactions on Multimedia, 2021, 23, 2721–2731.
+    pdf: https://ieeexplore.ieee.org/document/9165939/
+    bibtex: https://dblp.org/rec/journals/tmm/SongLLNLL21.html?view=bibtex
+    image: ../assets/paper/uda3d.png
+
+  - title: "SP-VITON: shape-preserving image-based virtual try-on network"
+    authors: Dan Song, <strong>Tianbao Li</strong>, Zhendong Mao, Anan Liu*
+    conference_short: MTAP
+    conference:  Multimedia Tools and Applications, 2020, 79(45), 33757-33769.
+    pdf: https://doi.org/10.1007/s11042-019-08363-w/
+    bibtex: https://dblp.org/rec/journals/mta/0006LML20.html?view=bibtex
+    image: ../assets/paper/spvton.png

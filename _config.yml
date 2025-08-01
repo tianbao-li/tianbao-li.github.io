@@ -1,0 +1,31 @@
+# Basic Information 
+title: Tianbao Li
+position: Lecturer / Postdoc
+affiliation: China University of Petroleum
+email: tbli.upc (at) outlook.com
+
+# Search Engine Optimization (SEO)
+keywords: tianbao li, tianbaoli, li tianbao, litianbao, 李天宝
+canonical: https://tianbao-li.github.io/ 
+description: Tianbao Li is a lecturer at China University of Petroleum.
+
+enable_hopkins_logo: false
+
+enable_last_update: false
+
+# Links
+link_type: icon #text/icon
+google_scholar: https://scholar.google.com/citations?user=2urNTlMAAAAJ
+github_link: https://github.com/tianbao-li
+
+# Images 
+avatar: ./assets/tbli/tbli.jpg
+
+# The following files will be removed from the generated website.
+exclude:
+  - build.sh
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+  - CNAME
