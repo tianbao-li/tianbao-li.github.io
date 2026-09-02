@@ -1,6 +1,7 @@
 <h2 style="margin: 60px 0px 10px;">News</h2>
 
 <ul>
+  <li><strong>[Mar. 2026]</strong> Our paper about <a href="https://ieeexplore.ieee.org/document/11449275/">marine meteorological forecasts</a> is accepted to <strong>IEEE TGRS</strong>.</li>
   <li><strong>[Oct. 2024]</strong> Our paper about <a href="https://ieeexplore.ieee.org/document/10738521/">marine meteorological forecasts</a> is accepted to <strong>IEEE TCSVT</strong>.</li>
   <li><strong>[Jul. 2024]</strong> Our paper about <a href="https://ieeexplore.ieee.org/document/10607931/">multiple meteorological forecasts</a> is accepted to <strong>IEEE TKDE</strong>.</li>
   <li><strong>[Oct. 2023]</strong> Our paper about <a href="https://ieeexplore.ieee.org/document/10278480/">Domain Adaptation</a> is accepted to <strong>IEEE TMM</strong>.</li>
