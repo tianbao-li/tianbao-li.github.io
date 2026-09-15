@@ -21,7 +21,7 @@ google_scholar: https://scholar.google.com/citations?user=2urNTlMAAAAJ
 github_link: https://github.com/tianbao-li
 
 # Images 
-avatar: ./assets/tbli/tbli.jpg
+avatar: ./assets/tbli/tbli.png
 
 # The following files will be removed from the generated website.
 exclude:
